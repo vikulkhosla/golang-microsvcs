@@ -15,7 +15,7 @@ needs to be customized. This optionality presented through builder methods fall 
 * Activating (or not) arious authentication mechanisms
 * Activating (or not) memory based logging
 
-The builder design pattern is a powerful creational design pattern and can be used in interesting ways. Future enhancements for builder optionality, specific to what we do at PSAT, can include new mechanisms that cut across golang services that PSAT needs to build. 
+The builder design pattern is a powerful creational design pattern and can be used in interesting ways. Future enhancements for builder optionality, can include new mechanisms that cut across golang services that need to be built. 
 
 </br>
 
